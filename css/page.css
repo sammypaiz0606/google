@@ -110,6 +110,11 @@ div.bottomBar ul {
 .fa2::before {
 	content:'\f00a';
 }
+@media screen and (max-width:750px) {
+    input {
+        width:450px;
+    }
+}
 @media screen and (max-width:500px) {
     input {
         width:350px;
