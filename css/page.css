@@ -104,11 +104,10 @@ div.bottomBar ul {
 	right:0;
 	margin-right:15px;
 }
-.fa::before {
-    content: "\f0a2";
-}
-.fa2::before {
-	content:'\f00a';
+.picture1 img  {
+    width:25px;
+    position: relative;
+    top:5px;
 }
 @media screen and (max-width:750px) {
     input {
